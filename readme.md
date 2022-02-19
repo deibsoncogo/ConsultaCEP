@@ -1,8 +1,11 @@
 # Verificador de CEP
 Desenvolvimento de uma aplicação simples para realizar consultas de CEP
 
-# Execução
+## Execução
 Basta abrir o arquivo abaixo e preencher os campos
-```typescript
+```bash
 ./src/index.html
 ```
+
+## Imagem
+![Tela principal](/src/assets/print1.png)
